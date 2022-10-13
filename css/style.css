@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
+
+
+@font-face {
+    font-family: 'monacoregular';
+    src: url('css/font/monaco_regular-webfont.woff2') format('woff2'),
+         url('css/font/monaco_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+nav{
+    background-color: aliceblue !important;
+}
+*{
+    background-color:#040c18;
+    font-family: 'Kanit', sans-serif;
+    color:white
+   
+}
+.bg-footer{
+    background-color: #031B34 !important;
+}
+.bg-medium{
+    background-color: #0C4C8E !important;
+}
+.text-madfam{
+    color: #0C4C8E;
+}
+.title-gradient{
+    background: linear-gradient(89.97deg,#ae67fa 1.84%,#f49867 102.67%);
+                                -webkit-text-fill-color: transparent;
+                                -webkit-background-clip: text;
+}
+.font-body{
+    color:#71AFDD !important;
+}
+/* .photo-footer{
+    height: 100px;
+    width: 100px;
+} */
+.bg-footer-madfam{
+    background-color: #031B34;
+}
+
+/* Nabbar color by Madfish */
+.bg-nav-madfish{
+    background-color: #031B34 !important;
+}
+/* Background COlor by Madfish */
+.bg-madfish{
+    background-color: #040c18 !important;
+}
+
+
+.carousel-item{
+   
+    height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    
+    
+    
+}
+.carousel-image-1{
+    background-image: url('../img/page1.png');
+    
+       
+}
+.carousel-image-2{
+    background-image: url('../img/page2.png');
+    
+ 
+    
+}
+.carousel-image-3{
+    background-image: url('../img/page3.png');
+    
+}
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
+
+/* ------------------------------------- */
